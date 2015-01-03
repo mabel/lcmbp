@@ -1,0 +1,24 @@
+{
+  "name": "app-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "bootable": "0.2.x",
+    "bootable-environment": "0.2.x",
+    "connect-powered-by": "0.1.x",
+    "crypto": "0.0.3",
+    "ejs": "0.8.x",
+    "express": "3.x.x",
+    "locomotive": "0.4.x",
+    "method-override": "^2.3.0",
+    "passport": "^0.2.1",
+    "passport-local": "^1.0.0",
+    "redis": "^0.12.1",
+    "shortid": "^2.1.3",
+    "validole": "^0.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
